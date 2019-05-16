@@ -56672,7 +56672,7 @@ Ctrl + K"
                       />
                       <input
                         class="MuiPrivateSwitchBase-input-id"
-                        name="isVisible"
+                        name="isPublished"
                         type="checkbox"
                       />
                     </span>
@@ -56709,7 +56709,7 @@ Ctrl + K"
                   <input
                     aria-invalid="false"
                     class="MuiInputBase-input-id MuiInput-input-id MuiInputBase-inputType-id MuiInput-inputType-id"
-                    name="availableOn"
+                    name="publicationDate"
                     type="date"
                     value=""
                   />
@@ -57407,7 +57407,7 @@ Ctrl + K"
                       />
                       <input
                         class="MuiPrivateSwitchBase-input-id"
-                        name="isVisible"
+                        name="isPublished"
                         type="checkbox"
                       />
                     </span>
@@ -57444,7 +57444,7 @@ Ctrl + K"
                   <input
                     aria-invalid="true"
                     class="MuiInputBase-input-id MuiInput-input-id MuiInputBase-inputType-id MuiInput-inputType-id"
-                    name="availableOn"
+                    name="publicationDate"
                     type="date"
                     value=""
                   />
@@ -57982,7 +57982,7 @@ Ctrl + K"
                       <input
                         class="MuiPrivateSwitchBase-input-id"
                         disabled=""
-                        name="isVisible"
+                        name="isPublished"
                         type="checkbox"
                       />
                     </span>
@@ -58020,7 +58020,7 @@ Ctrl + K"
                     aria-invalid="false"
                     class="MuiInputBase-input-id MuiInput-input-id MuiInputBase-disabled-id MuiInput-disabled-id MuiInputBase-inputType-id MuiInput-inputType-id"
                     disabled=""
-                    name="availableOn"
+                    name="publicationDate"
                     type="date"
                     value=""
                   />
